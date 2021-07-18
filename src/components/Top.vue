@@ -40,7 +40,7 @@ export default Vue.extend({
 
 <style scoped>
 .submit_button {
-  background-color: rgb(41, 195, 223);
+  background-color: rgb(10, 108, 126);
   color: white;
   font-weight: bold;
 }
